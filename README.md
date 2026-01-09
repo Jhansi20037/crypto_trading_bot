@@ -36,6 +36,8 @@ crypto_trading_bot/
 ├── requirements.txt
 ├── run.py
 └── README.md
+
+
 ⚙️ Setup Instructions
 
 Register and log in to Binance Futures Testnet
