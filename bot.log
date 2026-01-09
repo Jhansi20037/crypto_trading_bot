@@ -1,0 +1,20 @@
+2026-01-09 11:09:15,346 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:09:16,210 - ERROR - Market order error: APIError(code=-2014): API-key format invalid.
+2026-01-09 11:27:22,429 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:27:23,122 - ERROR - Market order error: APIError(code=-2014): API-key format invalid.
+2026-01-09 11:28:58,293 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:28:59,249 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:29:46,358 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:30:04,945 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:30:05,925 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:34:25,727 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:34:26,518 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:36:41,671 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:36:42,503 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:40:32,622 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:41:12,814 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:41:13,774 - ERROR - Stop-limit order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:41:51,660 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:41:52,387 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-01-09 11:42:25,743 - INFO - Binance Futures Testnet client initialized
+2026-01-09 11:42:26,373 - ERROR - Market order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
